@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanalamk2k&label=Profile%20views&color=0e75b6&style=flat" alt="farhanalamk2k" /> </p>
 
-- 🔭 I’m currently working on **Ionic project**
+- 🔭 I’m currently working on **Flutter & Ionic project**
 
 - 🌱 I’m currently learning **Ionic, Vue and Rive**
 
