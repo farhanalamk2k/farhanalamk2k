@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ionic, Vue and Rive**
 
-- 👨‍💻 All of my projects are available at [farhandotdev.netlify.app](https://farhandotdev.netlify.app/projects)
+- 👨‍💻 All of my projects are available at [farhandotdev.netlify.app](https://farhandotdev.netlify.app/project)
 
 - 💬 Ask me about **Flutter, React and Business**
 
