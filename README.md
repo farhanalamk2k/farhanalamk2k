@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter & Ionic project**
 
-- 🌱 I’m currently learning **Ionic, Vue and Rive**
+- 🌱 I’m currently learning **Riverpod**
 
 - 👨‍💻 All of my projects are available at [farhandotdev.netlify.app](https://farhandotdev.netlify.app/)
 
